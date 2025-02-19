@@ -14,6 +14,7 @@
 
 ## 📈 GitHub Stats  
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulk211&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk211&layout=compact&theme=radical)  
 
 ## 🚀 Projects  
 - **Network Performance Dashboard** - Real-time monitoring, predictive analytics & alerts  
@@ -21,7 +22,9 @@
 - **More exciting projects coming soon...**  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkapurwan8@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ra.hul__kapurwan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kapurwan)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulk211)  
 
 💡 **"Code, Learn, and Innovate!"** 🚀  
